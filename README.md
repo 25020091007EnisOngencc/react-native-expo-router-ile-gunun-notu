@@ -1,5 +1,5 @@
 
-# 📱 React Native & Expo ile Günün Notu Uygulaması (Cross-Platform)
+# 📱 React Native & Expo Router ile Günün Notu Uygulaması (Cross-Platform)
 
 Bu proje, daha önce yerel (Native) Android mimarisi (Java/Kotlin) kullanılarak geliştirilen **"Günün Notu"** mobil uygulamasının, **React Native** ve **Expo Router** teknolojileri kullanılarak çapraz platform (Cross-Platform) mimarisine taşınmış versiyonudur. 
 
