@@ -28,7 +28,7 @@ Proje, mobil geliştirmede platform bağımsızlığı ve sayfalar arası veri i
 * **Framework:** React Native (Expo SDK)
 * **Yönlendirici (Routing):** Expo Router (Stack Navigation)
 * **Dil:** TypeScript / JavaScript
-* **Test Ortamı:** Android Virtual Device (AVD) & Expo Go Client
+* **Test Ortamı:** Android Studio & Expo Go Client & Visual Studio Code 
 
 ---
 
