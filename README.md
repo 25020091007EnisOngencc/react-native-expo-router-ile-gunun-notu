@@ -40,12 +40,4 @@ Expo Router'ın dosya tabanlı yönlendirme (file-based routing) sistemine uygun
 * 📄 **`index.tsx`**: Uygulamanın ana ekranıdır. İkinci ekrandan gönderilen güncel not verisini anlık olarak yakalar ve modern bir karanlık tema arayüzünde görüntüler.
 * 📄 **`notEkle.tsx`**: Kullanıcının yeni not girdisi yapabileceği text alanını barındıran ve girilen veriyi ana sayfaya güvenli bir şekilde geri fırlatan ikinci ekrandır.
 
----
 
-## 🚀 Yerel Kurulum ve Çalıştırma
-
-Projeyi kendi bilgisayarınızda test etmek isterseniz:
-
-1. Projeyi klonlayın:
-   ```bash
-   git clone [https://github.com/25020091007EnisOngencec/REACT-NATIVE-EXPO-ILE-GUNUN-NOTU.git](https://github.com/25020091007EnisOngencec/REACT-NATIVE-EXPO-ILE-GUNUN-NOTU.git)
